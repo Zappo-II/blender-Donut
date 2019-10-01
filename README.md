@@ -4,7 +4,7 @@ A blender tutorial walk through creation of a donut...
 
 ## Preview (WIP)
 
-![alt text](Samples/donut-wip-3.png "WIP Preview")
+![alt text](Samples/donut-wip-4.png "Latest WIP Preview")
 
 ## YouTube Tutorial
 
