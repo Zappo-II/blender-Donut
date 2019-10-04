@@ -6,7 +6,7 @@ I tried to pimp the scene with some creations of my own, leveraging things I've 
 
 ## Preview (WIP)
 
-![alt text](Samples/donut-wip-4.png "Latest WIP Preview")
+![alt text](Samples/donut-wip-5.png "Latest WIP Preview")
 
 ## Based on
 
