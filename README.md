@@ -10,11 +10,11 @@ I tried to pimp the scene with some creations of my own, leveraging things I've 
 
 ## Preview (WIP)
 
-![alt text](Samples/donut-wip-8.png "Latest WIP Preview")
+![alt text](Samples/donut-wip-8.png "Latest WIP Preview...")
 
-## Sample Animation (Camera)
+## Rendered Sample Animation (Camera move)
 
-![alt text](Samples/AnimationSample.mp4 "Animation Sample")
+![Click here for file link and choose display raw there...](Samples/AnimationSample.mp4 "Rendered animation sample...")
 
 ## Based on
 
