@@ -5,11 +5,12 @@ A blender tutorial walk through creation of a donut...
 I tried to pimp the scene with some creations of my own, leveraging things I've learned so far...
 
 * Plate (with rogue sprinkles on it...)
-* Mug (with it's own texture painting...)
+* Official mug (with it's own texture painting...) of my company...
+* Camera View animation...
 
 ## Preview (WIP)
 
-![alt text](Samples/donut-wip-7.png "Latest WIP Preview")
+![alt text](Samples/donut-wip-8.png "Latest WIP Preview")
 
 ## Based on
 
