@@ -12,6 +12,10 @@ I tried to pimp the scene with some creations of my own, leveraging things I've 
 
 ![alt text](Samples/donut-wip-8.png "Latest WIP Preview")
 
+## Sample Animation (Camera)
+
+![alt text](Samples/AnimationSample.mp4 "Animation Sample")
+
 ## Based on
 
 ### YouTube Tutorial
