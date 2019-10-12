@@ -1,4 +1,5 @@
+.DS*
 *.blend1
 *~
-RenderResult
+RenderResult*
 RenderedAnimation
